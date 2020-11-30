@@ -1,4 +1,4 @@
-package com.severell.inertia;
+package com.severell.plugins.inertia;
 
 import com.severell.core.container.Container;
 import com.severell.core.providers.ServiceProvider;

@@ -1,4 +1,4 @@
-package com.severell.inertia;
+package com.severell.plugins.inertia;
 
 import com.severell.core.exceptions.ViewException;
 import com.severell.core.http.NeedsRequest;
